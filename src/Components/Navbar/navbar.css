@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+img{
+    border-radius: 10px;
+}
+.navbar .logo{
+    width: max(4%, 50px);
+}
